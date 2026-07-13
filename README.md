@@ -1,49 +1,47 @@
 # Hey there! 👋 Welcome to my GitHub Profile
 
 ```
-                                                    +=+***+=-:.:                     
-                                                 =-=::-.-*-.....::-+                 
-                                               -:.:.:.......:.........:            
-                                             :.................--:......           
-                                           -:.................+*####-....          
-                                          :...................+**##%%#....         
-                                        :.....................+***%%@%%... .       
-                                        :...:................-++***#%%%@:::.       
-                                        -...................-====*#***+++#==+      
-                                         ................:-=+++=+--+*#=+-=*--     
-                                         -.......--.....=+++*+++****++##%  @       
-                                          ......+++=++=-+++****####*+++*@%@        
-                                           .....++===*++++++*****##*++=+*@         
-                                             ....+++++++++++******#****#%@         
-                                              ....+***+++++*+********+=+**         
-                                               ...+++++++++*********+++*#          
-                                                .:+*++++++*******++++**#@          
-                                                @@%*+++++++++++*+++*****%          
-                                                @@@@@@*++++++++++++*****           
-                                               @@@@@@@@@@+++++++++#                
+                        
+                                @@@                                                                                                                             
+                              @@@@@@@                                                                                                                           
+                               @@@@@@@@                                                                                                                         
+                                %%%   @@@@        @@@@@@@@@@@                                                                                                   
+                                %%%      @@@@                @@@                                                                                                
+                                %%@         @@@                @@       @@@@@      @@@@      @@@@@@@@@@@     @@@@@@@@@@@@@     @@@@@@@@@@@@@                    
+                                @%@           @@@@              @@      @@@@@@@    @@@@    @@@@@@@ @@@@@@@   @@@@@@@@@@@@@@@   @@@@@@@@@@@@                     
+                                 %%%             @%%@%     @@@   @@     @@@@@@@@   @@@@   @@@@         @@@@   @@@       @@@@@  @@@@                             
+                                    %%%@             %@%%@@@@@@  @@     @@@@ @@@@@  @@@   @@@@         @@@@  @@@@        @@@@  @@@@@@@@@@@@                     
+                                       %%%%          @@%%@@@@@@  @@@    @@@@  @@@@@@@@@   @@@@         @@@@  @@@@        @@@@  @@@@@@@@@@@                      
+                                          %%     @@@@@           @@     @@@@    @@@@@@@   @@@@@       @@@@@  @@@@       @@@@   @@@@                             
+                                           @@  %%@       @@      @@     @@@@      @@@@@     @@@@@@@@@@@@@    @@@@@@@@@@@@@@    @@@@@@@@@@@@                     
+                                         @@@ %%%      @@ @@     @@      @@@@       @@@@       @@@@@@@@@      @@@@@@@@@@@@      @@@@@@@@@@@@@                    
+                                      @@@@ %%      @@ @@ @@   @@@                                                                                               
+                               @@@@@@@@         @           @@@          @@@                  @                              @ @ @ @  @  @@                     
+                              @@@@@@@              @@@@@@@@@             @@@@@@@@@@@@@@@@@ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@ @@@@ @@@@@@@                     
+                               @@@@@                                                                   @@@                                                                                                                                                                                                             
 ```
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Muhammad Nizar Al-Faris**, an **AI Engineer & Programmer** passionate about modern web development and AI-augmented solutions. I specialize in **No-Code/Low-Code Web Development** with a focus on creating efficient, scalable, and user-centric applications.
 
-### 🎯 What I Do
-- 🚀 Build modern web applications with **TypeScript, React, and Next.js**
-- 🔧 Develop full-stack solutions with **Node.js** backend and **PostgreSQL** databases
-- 🤖 Integrate **AI-powered solutions** into web applications
-- 📈 Optimize website performance and enhance user experience
-- 💡 Focus on clean, maintainable, and efficient code
+###  What I Do
+-  Build modern web applications with **TypeScript, React, and Next.js**
+-  Develop full-stack solutions with **Node.js** backend and **PostgreSQL** databases
+-  Integrate **AI-powered solutions** into web applications
+-  Optimize website performance and enhance user experience
+-  Focus on clean, maintainable, and efficient code
 
-### 🌱 Currently Learning
-- 📚 Deepening my knowledge in **Full Stack Development Concepts**
-- ⚡ Exploring **Performance Optimization** techniques
-- 🔗 Integrating **AI-powered web solutions** for freelance projects and tech services
+###  Currently Learning
+-  Deepening my knowledge in **Full Stack Development Concepts**
+-  Exploring **Performance Optimization** techniques
+-  Integrating **AI-powered web solutions** for freelance projects and tech services
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Programming Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -86,13 +84,13 @@ I'm **Muhammad Nizar Al-Faris**, an **AI Engineer & Programmer** passionate abou
 
 ---
 
-## 💡 Key Interests
+##  Key Interests
 
-- 🎨 **UI/UX Design** - Creating beautiful and intuitive user interfaces
-- ⚙️ **Performance Optimization** - Building lightning-fast web applications
-- 🤖 **AI Integration** - Leveraging AI to enhance web solutions
-- 📱 **Responsive Design** - Ensuring seamless experiences across all devices
-- 🔐 **Best Practices** - Following industry standards and clean code principles
+-  **UI/UX Design** - Creating beautiful and intuitive user interfaces
+-  **Performance Optimization** - Building lightning-fast web applications
+-  **AI Integration** - Leveraging AI to enhance web solutions
+-  **Responsive Design** - Ensuring seamless experiences across all devices
+-  **Best Practices** - Following industry standards and clean code principles
 
 ---
 
@@ -106,7 +104,7 @@ I'm **Muhammad Nizar Al-Faris**, an **AI Engineer & Programmer** passionate abou
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 *Coming soon...*  
 I'm working on some exciting projects to showcase here. Stay tuned! 👀
